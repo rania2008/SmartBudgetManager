@@ -1,0 +1,9 @@
+Budget MANAGEMENT SYSTEM
+
+January1:
+Budget: 1500E
+ID: 2026001
+
+April4:
+Budget:18800E
+ID: 2026002
